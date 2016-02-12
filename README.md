@@ -31,6 +31,7 @@ console.log(mydata);
 }
 ```
 
+[Play with it](http://plnkr.co/edit/BAoYyeDAboRwpAujSJeH)
 
 #### Disclaimer
 I use WatchJS library for watching changes in objects
